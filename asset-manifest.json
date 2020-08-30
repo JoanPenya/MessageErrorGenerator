@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MessageErrorGenerator/static/css/main.d09edf48.chunk.css",
+    "main.js": "/MessageErrorGenerator/static/js/main.ab16ca94.chunk.js",
+    "main.js.map": "/MessageErrorGenerator/static/js/main.ab16ca94.chunk.js.map",
+    "runtime-main.js": "/MessageErrorGenerator/static/js/runtime-main.f0df4bc1.js",
+    "runtime-main.js.map": "/MessageErrorGenerator/static/js/runtime-main.f0df4bc1.js.map",
+    "static/js/2.2b487fad.chunk.js": "/MessageErrorGenerator/static/js/2.2b487fad.chunk.js",
+    "static/js/2.2b487fad.chunk.js.map": "/MessageErrorGenerator/static/js/2.2b487fad.chunk.js.map",
+    "index.html": "/MessageErrorGenerator/index.html",
+    "precache-manifest.8d413fed5ca431cda6a3970ec954e8f2.js": "/MessageErrorGenerator/precache-manifest.8d413fed5ca431cda6a3970ec954e8f2.js",
+    "service-worker.js": "/MessageErrorGenerator/service-worker.js",
+    "static/css/main.d09edf48.chunk.css.map": "/MessageErrorGenerator/static/css/main.d09edf48.chunk.css.map",
+    "static/js/2.2b487fad.chunk.js.LICENSE.txt": "/MessageErrorGenerator/static/js/2.2b487fad.chunk.js.LICENSE.txt",
+    "static/media/windows.png": "/MessageErrorGenerator/static/media/windows.e5fc0e29.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0df4bc1.js",
+    "static/js/2.2b487fad.chunk.js",
+    "static/css/main.d09edf48.chunk.css",
+    "static/js/main.ab16ca94.chunk.js"
+  ]
+}
